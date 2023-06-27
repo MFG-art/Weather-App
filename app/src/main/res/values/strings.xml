@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Weather App ICS-342</string>
+    <string name="app_name">Test Application</string>
+    <string name="sun_string">It\'s a picture of a sun</string>
+    <string name="location">Saint Paul, MN</string>
+    <string name="temperature">72°</string>
+    <string name="feels_like">Feels like 78°</string>
+    <string name="low_temp">Low 65°</string>
+    <string name="high_temp">High 80°</string>
+    <string name="humidity">Humidity 100%</string>
+    <string name="pressure">Pressure 1023 hPa</string>
 </resources>
